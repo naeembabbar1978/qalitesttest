@@ -1,8 +1,5 @@
 ﻿Feature: Main
 
-A short summary of the feature
-
-@tag1
 Scenario: Login to App
 	Given I add four random items to my cart
 	When  I view my cart
